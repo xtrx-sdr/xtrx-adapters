@@ -1,0 +1,126 @@
+Altium Designer Pick and Place Locations
+C:\Git\Fairwaves\xtrx-hardware\Carrier Boards\USB3-PCIe\USB3-PCIEv21\Project Outputs\Pick Place\Pick Place for USB3-PCIEv21(Var_1).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26.07.18
+Time:       14:52
+Revision:   01d15f25feddbcfdf56136f3c54a70af0cb94595
+Variant:    Var_1
+Units used: mm
+
+Designator Comment                          Layer       Footprint                 Center-X(mm) Center-Y(mm) Rotation Description                      
+C1         10uF                             BottomLayer C0402-Phillips            -20.0000     11.7500      90       Capacitor                        
+X7         0734120110                       TopLayer    U_FL                      -31.1750     -7.0000      180      "Connector (UMCC)"               
+X3         0734120110                       TopLayer    U_FL                      -31.1750     7.0000       180      "Connector (UMCC)"               
+C43        0.1uF                            BottomLayer C0402-Phillips            -17.0750     -13.2750     180      Capacitor                        
+C36        0.1uF                            BottomLayer C0402-Phillips            -9.3750      -7.4500      360      Capacitor                        
+C35        0.1uF                            BottomLayer C0402-Phillips            -9.3750      -4.9750      360      Capacitor                        
+C29        0.1uF                            BottomLayer C0402-Phillips            -14.0000     1.0250       90       Capacitor                        
+C27        0.1uF                            BottomLayer C0402-Phillips            -11.7500     -13.0750     270      Capacitor                        
+C24        0.1uF                            BottomLayer C0402-Phillips            -16.5750     1.0250       90       Capacitor                        
+C18        0.1uF                            BottomLayer C0402-Phillips            -23.4000     -8.6000      180      Capacitor                        
+C16        0.1uF                            BottomLayer C0402-Phillips            0.5765       -0.8250      180      Capacitor                        
+C14        0.1uF                            BottomLayer C0402-Phillips            -23.4751     -4.2499      180      Capacitor                        
+R41        10k                              TopLayer    R0402-Phillips            8.6000       -15.4000     180      Resistor                         
+R40        10k                              TopLayer    R0402-Phillips            -2.6750      -15.7250     180      Resistor                         
+R39        10k                              TopLayer    R0402-Phillips            -10.0250     -15.3750     180      Resistor                         
+L5         0.47uH                           BottomLayer L-VLS201610HBX            -12.7500     -15.1500     360      Coil                             
+LED3       WHITE                            TopLayer    LED-0603YL                -5.0000      -15.7000     360      "LED WHITE"                      
+LED2       WHITE                            TopLayer    LED-0603YL                0.0000       -15.7000     360      "LED WHITE"                      
+R21        10k                              BottomLayer R0402-Phillips            -14.1750     2.9500       270      Resistor                         
+R20        10k                              BottomLayer R0402-Phillips            -9.3750      -10.9250     0        Resistor                         
+LED1       WHITE                            TopLayer    LED-0603YL                5.0000       -15.7000     360      "LED WHITE"                      
+R19        10k                              BottomLayer R0402-Phillips            -9.3750      -11.8000     0        Resistor                         
+X6         "Connector SIM card"             BottomLayer SIM_SF56S006V4BR2000-dig  -3.6500      8.0875       270      "Connector SIM card"             
+U3         "USB3380-AB50NI G"               BottomLayer QFN-88(10x10/0.4mm)_pad   -16.4750     -6.0250      0        IC                               
+X1         692622030100                     BottomLayer USB3.0-MICROB_SMT         0.3500       -13.0500     180      "Connector microUSB3.0-Type B"   
+X5         "Connector PCIe MiniCard 1.55mm" TopLayer    PCIe_MiniCard_1.55mm_conn -22.5500     0.0000       270      "Connector PCIe MiniCard 1.55mm" 
+C47        10uF                             BottomLayer C0402-Phillips            13.6750      -9.6750      90       Capacitor                        
+L4         0.47uH                           BottomLayer L-VLS201610HBX            -3.3000      -1.5750      90       Coil                             
+L3         0.47uH                           BottomLayer L-VLS201610HBX            12.2500      -12.7500     90       Coil                             
+C46        0.01uF                           BottomLayer C0402-Phillips            -15.7750     -13.0750     90       Capacitor                        
+C38        0.01uF                           BottomLayer C0402-Phillips            -9.3750      -9.2250      180      Capacitor                        
+C32        1uF                              BottomLayer C0402-Phillips            -12.4000     1.0250       270      Capacitor                        
+C21        0.1uF                            BottomLayer C0402-Phillips            -13.3750     -13.0750     270      Capacitor                        
+C17        0.1uF                            BottomLayer C0402-Phillips            -23.4000     -2.6500      180      Capacitor                        
+C40        10uF                             BottomLayer C0402-Phillips            -9.3750      -0.4710      180      Capacitor                        
+C49        10uF                             BottomLayer C0402-Phillips            -12.5750     -13.0750     90       Capacitor                        
+C44        1uF                              BottomLayer C0402-Phillips            -14.9750     -13.0750     90       Capacitor                        
+C37        0.01uF                           BottomLayer C0402-Phillips            -9.3750      -8.3750      180      Capacitor                        
+C50        10uF                             BottomLayer C0402-Phillips            -10.1250     -13.0750     90       Capacitor                        
+C31        0.01uF                           BottomLayer C0402-Phillips            -9.3750      -4.1500      180      Capacitor                        
+C26        1uF                              BottomLayer C0402-Phillips            -23.8250     -1.8500      360      Capacitor                        
+Z1         30.0MHz                          BottomLayer ZQ_SMD2532                -6.4000      -3.9250      270      "Quartz crystall SMD"            
+R26        33                               BottomLayer R0402-Phillips            -23.5250     7.0000       0        Resistor                         
+R10        330                              TopLayer    R0402-Phillips            -7.8000      -15.3750     180      Resistor                         
+R9         330                              TopLayer    R0402-Phillips            2.3500       -15.4000     360      Resistor                         
+R38        180k                             BottomLayer R0402-Phillips            18.8250      -9.7750      180      Resistor                         
+R37        120k                             BottomLayer R0402-Phillips            17.6000      -8.5500      360      Resistor                         
+R34        27k                              BottomLayer R0402-Phillips            18.8250      -13.2500     360      Resistor                         
+R33        120k                             BottomLayer R0402-Phillips            17.5750      -14.3750     180      Resistor                         
+R32        0                                BottomLayer R0402-Phillips            -14.8750     -15.1750     180      Resistor                         
+R31        0                                BottomLayer R0402-Phillips            -19.5790     -14.3750     270      Resistor                         
+R30        0                                BottomLayer R0402-Phillips            -2.6870      -3.2460      360      Resistor                         
+R29        0                                BottomLayer R0402-Phillips            -2.6750      -4.3250      360      Resistor                         
+R36        120k                             BottomLayer R0402-Phillips            16.2750      -8.0500      270      Resistor                         
+R35        120k                             BottomLayer R0402-Phillips            16.2750      -14.8750     270      Resistor                         
+R18        10k                              BottomLayer R0402-Phillips            -9.3750      -10.1000     180      Resistor                         
+C3         0.1uF                            BottomLayer C0402-Phillips            -3.2250      -9.6500      270      Capacitor                        
+C2         0.1uF                            BottomLayer C0402-Phillips            -2.4250      -9.6500      270      Capacitor                        
+C8         0.1uF                            TopLayer    C0402-Phillips            -28.7750     -4.2000      180      Capacitor                        
+C7         0.1uF                            TopLayer    C0402-Phillips            -28.7750     -3.4000      180      Capacitor                        
+C6         0.1uF                            BottomLayer C0402-Phillips            -23.4750     -7.1250      0        Capacitor                        
+C5         0.1uF                            BottomLayer C0402-Phillips            -23.4750     -6.3250      0        Capacitor                        
+C15        1uF                              BottomLayer C0402-Phillips            13.6750      -13.2500     270      Capacitor                        
+R13        10k                              BottomLayer R0402-Phillips            -20.8250     1.2000       90       Resistor                         
+R14        10k                              BottomLayer R0402-Phillips            -22.7250     1.2000       90       Resistor                         
+C19        0.01uF                           BottomLayer C0402-Phillips            -23.4751     -5.0499      360      Capacitor                        
+C10        18pF                             BottomLayer C0402-Phillips            -9.3750      -2.3000      180      Capacitor                        
+R6         24k                              BottomLayer R0402-Phillips            5.9000       -8.2000      0        Resistor                         
+R25        2k                               BottomLayer R0402-Phillips            -16.7750     3.2000       90       Resistor                         
+R7         47k                              BottomLayer R0402-Phillips            3.1000       -8.2000      0        Resistor                         
+R15        10k                              BottomLayer R0402-Phillips            -12.3000     3.4750       270      Resistor                         
+R17        10k                              BottomLayer R0402-Phillips            -21.7750     1.2000       90       Resistor                         
+R16        10k                              BottomLayer R0402-Phillips            -9.3750      -1.2710      360      Resistor                         
+R22        10k                              BottomLayer R0402-Phillips            -21.7750     -13.9750     270      Resistor                         
+C11        18pF                             BottomLayer C0402-Phillips            -9.3750      -3.1000      180      Capacitor                        
+R8         330                              TopLayer    R0402-Phillips            10.5250      -15.4000     360      Resistor                         
+R23        "1k6 1%"                         BottomLayer R0402-Phillips            -23.8000     -9.6250      180      Resistor                         
+R24        0                                BottomLayer R0402-Phillips            -17.5000     1.0250       270      Resistor                         
+R27        33                               BottomLayer R0402-Phillips            -23.5250     7.8000       0        Resistor                         
+C20        1000pF                           BottomLayer C0402-Phillips            18.8250      -11.9500     180      Capacitor                        
+C22        0.1uF                            BottomLayer C0402-Phillips            -14.8000     1.0250       90       Capacitor                        
+C33        0.1uF                            BottomLayer C0402-Phillips            -23.3000     -10.7500     180      Capacitor                        
+C28        0.1uF                            BottomLayer C0402-Phillips            -11.6000     1.0250       90       Capacitor                        
+C39        0.1uF                            BottomLayer C0402-Phillips            -23.6250     -3.4500      180      Capacitor                        
+C51        10uF                             BottomLayer C0402-Phillips            10.1250      -9.9710      90       Capacitor                        
+U4         MIC23158YML                      BottomLayer MLF-20(3X4/0.5)MIC        15.9750      -11.4750     360      "IC dual 2A step down DCDC"      
+C13        10uF                             BottomLayer C0402-Phillips            14.9750      -14.3750     180      Capacitor                        
+C9         0.01uF                           TopLayer    C0402-Phillips            0.3500       15.5250      360      Capacitor                        
+C12        10uF                             BottomLayer C0402-Phillips            12.1750      -14.6250     360      Capacitor                        
+C23        0.01uF                           BottomLayer C0402-Phillips            -19.8250     1.0000       270      Capacitor                        
+C25        0.01uF                           BottomLayer C0402-Phillips            -13.2000     1.0250       270      Capacitor                        
+C30        0.01uF                           BottomLayer C0402-Phillips            -10.9500     -13.0750     90       Capacitor                        
+C34        10uF                             BottomLayer C0402-Phillips            -14.1750     -13.0750     90       Capacitor                        
+C41        1uF                              BottomLayer C0402-Phillips            14.9750      -8.5500      180      Capacitor                        
+C42        10uF                             BottomLayer C0402-Phillips            -19.0250     1.0000       270      Capacitor                        
+C45        1000pF                           BottomLayer C0402-Phillips            18.8250      -11.0250     180      Capacitor                        
+C48        10uF                             BottomLayer C0402-Phillips            -20.4500     -13.1000     90       Capacitor                        
+L6         0.47uH                           BottomLayer L-VLS201610HBX            12.2500      -10.2250     90       Coil                             
+U2         CAT25640YI-G                     BottomLayer TSSOP-8                   0.0960       -5.1289      180      "IC SPI CMOS EEPROM"             
+X8         XTRX-JTAG                        TopLayer    Molex_78864-1001          -7.8500      12.1000      90       "Connector board to board"       
+X9         0734120110                       BottomLayer U_FL                      -37.3500     0.0000       180      "Connector (UMCC)"               
+X10        0734120110                       BottomLayer U_FL                      -37.7500     6.2000       90       "Connector (UMCC)"               
+X11        0734120110                       BottomLayer U_FL                      -37.7500     -6.2000      270      "Connector (UMCC)"               
+X12        0734120110                       BottomLayer U_FL                      37.7500      6.2000       90       "Connector (UMCC)"               
+X13        0734120110                       BottomLayer U_FL                      37.7500      -6.2000      270      "Connector (UMCC)"               
+X14        "SMA edge SMD mount"             TopLayer    SMA_-_EDGE                -37.7750     0.0000       270      "Connector coaxial"              
+X15        "SMA edge SMD mount"             TopLayer    SMA_-_EDGE                -37.7000     6.6750       180      "Connector coaxial"              
+X16        "SMA edge SMD mount"             TopLayer    SMA_-_EDGE                -37.7000     -6.6750      0        "Connector coaxial"              
+X17        "SMA edge SMD mount"             TopLayer    SMA_-_EDGE                37.7500      6.6750       180      "Connector coaxial"              
+X18        "SMA edge SMD mount"             TopLayer    SMA_-_EDGE                37.7500      -6.6750      0        "Connector coaxial"              
+C52        10uF                             TopLayer    C0402-Phillips            -20.8790     -15.4960     180      Capacitor                        
+R28        0                                BottomLayer R0402-Phillips            -2.6750      -5.4000      360      Resistor                         
+L2         BLM18SG221TN1                    BottomLayer TI160808-Phillips         5.6500       -9.8500      360      "EMI ferrite bead"               

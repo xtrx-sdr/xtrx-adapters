@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Git\Fairwaves\xtrx-hardware\Carrier Boards\USB3-PCIe\USB3-PCIEv21\USB3-PCIEv21.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=usb3-pciev21-plated.txt|DrillLayers=gtl,gp1,g1,g2,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=usb3-pciev21-nonplated.txt|DrillLayers=gtl,gp1,g1,g2,gp2,gbl

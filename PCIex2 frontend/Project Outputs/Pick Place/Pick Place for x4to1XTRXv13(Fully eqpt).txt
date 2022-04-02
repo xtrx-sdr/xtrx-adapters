@@ -1,0 +1,104 @@
+Altium Designer Pick and Place Locations
+C:\Git\Fairwaves\xtrx-hardware\Carrier Boards\PCIeX4_1XTRX_FE\v1.3\Project Outputs\Pick Place\Pick Place for x4to1XTRXv13(Fully eqpt).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27.07.18
+Time:       17:13
+Revision:   d54d5df2c2c5627839e53cfa05a16d33e36f4566
+Variant:    Fully eqpt
+Units used: mm
+
+Designator Comment                              Layer       Footprint                          Center-X(mm) Center-Y(mm) Rotation Description                    
+C3         0.1uF                                TopLayer    C0603-PHILLIPS                     16.9000      41.2250      90       Capacitor                      
+U1         TPS62130RG                           TopLayer    QFN16(3x3/0/5mm)-Case485AE         19.4750      42.4750      180      IC                             
+E3         "Custom PCIe Bracket XTRX"           BottomLayer Custom_PCIe_bracket_XTRX1          7.5000       9.3500       180      "CNC'ed enclosure component"   
+L3         15uH                                 TopLayer    L-NRS5030                          41.4750      51.6500      90       Coil                           
+L2         2.2uH                                TopLayer    L-NRS5030                          24.9000      42.8500      90       Coil                           
+J2         TSM-103-01-T-SH                      TopLayer    Head_Male_3P_R/A_SMD               24.0000      15.7837      360      "Jumper 3 pin"                 
+U2         NCP5501DT50G                         TopLayer    DPAK-3                             8.5500       49.0500      90       "IC LDO fixed Vo"              
+C10        0.1uF                                TopLayer    C0603-PHILLIPS                     13.4039      53.2000      180      Capacitor                      
+C9         0.1uF                                TopLayer    C0603-PHILLIPS                     10.0000      44.8000      360      Capacitor                      
+X3         0734120110                           TopLayer    U_FL                               37.2000      43.0000      0        "Connector (UMCC)"             
+X4         0734120110                           TopLayer    U_FL                               33.8000      43.0000      180      "Connector (UMCC)"             
+R6         1k                                   TopLayer    R0603-PHILLIPS                     38.6000      31.2000      360      Resistor                       
+U6B        SKY13286-359LF                       TopLayer    QFN16(4x4/0.65mm)_SQ               68.3750      53.8000      180      "IC RF SPDT Absorptive Switch" 
+U6A        SKY13286-359LF                       TopLayer    QFN16(4x4/0.65mm)_SQ               77.6250      61.0000      360      "IC RF SPDT Absorptive Switch" 
+U5B        SKY13286-359LF                       TopLayer    QFN16(4x4/0.65mm)_SQ               54.1500      54.7500      90       "IC RF SPDT Absorptive Switch" 
+U5A        SKY13286-359LF                       TopLayer    QFN16(4x4/0.65mm)_SQ               91.8500      60.0500      270      "IC RF SPDT Absorptive Switch" 
+Shield3    "Screening shield frame BMI-S-202-F" TopLayer    BMI-S-202-F                        55.0000      57.4000      0        "Screening shield frame"       
+Shield2    "Screening shield frame BMI-S-202-F" TopLayer    BMI-S-202-F                        91.0000      57.4000      0        "Screening shield frame"       
+LED3       LTST-C190KRKT                        TopLayer    LED-0603RD                         1.7000       41.1000      360      "LED RED"                      
+LED2       LTST-C190TBKT                        TopLayer    LED-0603BL                         1.7000       39.9000      360      "LED BLUE"                     
+LED1       LTST-C190KGKT                        TopLayer    LED-0603GR                         1.7000       38.7000      360      "LED GREEN"                    
+Shield1    "Screening shield frame BMI-S-202-F" TopLayer    BMI-S-202-F                        73.0000      57.4000      0        "Screening shield frame"       
+C12        0.1uF                                TopLayer    C0603-PHILLIPS                     37.7500      52.6500      90       Capacitor                      
+X6         NT1R3000                             TopLayer    PCIe_MiniCard_1.55mm_stand_off_nut 93.5500      40.7499      0        "Stand-off nut PCIe MiniCard"  
+X7         NT1R3000                             TopLayer    PCIe_MiniCard_1.55mm_stand_off_nut 93.5500      16.5500      0        "Stand-off nut PCIe MiniCard"  
+L1         BLM18PG181SN1D                       TopLayer    TI160808-Phillips                  18.0500      61.8750      360      "Ferrite Bead EMIFIL"          
+J1         TSM-103-01-T-SH                      TopLayer    HEAD_MALE_3P_R/A_SMD               24.3000      58.2750      360      "Jumper 3 pin"                 
+X8         TSM-106-01-T-SH                      TopLayer    HEAD_MALE_6P_R/A_SMD               38.3000      57.2250      0        "Connector header male"        
+X1         105017-0001                          TopLayer    USB-micro-B                        15.7750      66.8250      180      "Connector microUSB-B"         
+C25B       100pF                                TopLayer    C0603-PHILLIPS                     52.7500      50.6500      180      Capacitor                      
+C25A       100pF                                TopLayer    C0603-PHILLIPS                     93.2500      64.1500      360      Capacitor                      
+C24B       10nF                                 TopLayer    C0603-PHILLIPS                     72.2750      51.8500      360      Capacitor                      
+C24A       10nF                                 TopLayer    C0603-PHILLIPS                     73.7250      62.9500      180      Capacitor                      
+C21B       100pF                                TopLayer    C0603-PHILLIPS                     69.2500      50.6500      360      Capacitor                      
+C21A       100pF                                TopLayer    C0603-PHILLIPS                     76.7500      64.1500      180      Capacitor                      
+C17B       100pF                                TopLayer    C0603-PHILLIPS                     57.7000      55.7250      90       Capacitor                      
+C17A       100pF                                TopLayer    C0603-PHILLIPS                     88.3250      59.0750      270      Capacitor                      
+X11        0734120110                           TopLayer    U_FL                               35.0000      35.2000      90       "Connector (UMCC)"             
+X12        0734120110                           TopLayer    U_FL                               35.0000      28.8000      270      "Connector (UMCC)"             
+R5         12k                                  TopLayer    R0603-PHILLIPS                     21.2958      47.2250      360      Resistor                       
+R4         2k                                   TopLayer    R0603-PHILLIPS                     19.7500      45.8250      180      Resistor                       
+C2         0.1uF                                TopLayer    C0603-PHILLIPS                     18.0250      63.4500      360      Capacitor                      
+C7         22uF/6.3V                            TopLayer    C0603-Phillips                     26.7000      47.0250      270      Capacitor                      
+C8         330uF/10V                            TopLayer    cd7343                             23.6500      37.8500      360      Capacitor                      
+C4         0.01uF                               TopLayer    C0603-PHILLIPS                     16.1772      43.6248      180      Capacitor                      
+R7         330                                  TopLayer    R0603-PHILLIPS                     7.5250       38.8242      180      Resistor                       
+X5         "PCIe MiniCard 1.55mm connector"     TopLayer    PCIE_MINICARD_1.55MM_CONN          45.5000      28.6500      270      "Connector PCIe MiniCard"      
+X9         "SIM micro push-push"                TopLayer    SIM_SF56S006V4BR2000-dig           8.4125       30.4200      360      "Connector SIM micro card"     
+X10        JTAG                                 TopLayer    Molex_78864-1001                   60.2000      40.7500      90       "Connector board to board"     
+R8         330                                  TopLayer    R0603-PHILLIPS                     7.5250       40.1389      180      Resistor                       
+R9         330                                  TopLayer    R0603-PHILLIPS                     7.5250       41.4742      180      Resistor                       
+C1         10uF                                 TopLayer    C0805                              13.7000      40.7680      270      Capacitor                      
+C11        10uF/6.3V                            TopLayer    C0603-Phillips                     45.2218      52.5134      90       Capacitor                      
+C13A       100pF                                TopLayer    C0603-PHILLIPS                     94.0000      51.3000      90       Capacitor                      
+C13B       100pF                                TopLayer    C0603-PHILLIPS                     52.0000      63.5000      270      Capacitor                      
+C14A       100pF                                TopLayer    C0603-PHILLIPS                     69.2250      64.0500      180      Capacitor                      
+C14B       100pF                                TopLayer    C0603-PHILLIPS                     76.7750      50.7500      360      Capacitor                      
+C15A       0.1uF                                TopLayer    C0603-PHILLIPS                     67.7500      59.3375      360      Capacitor                      
+C15B       0.1uF                                TopLayer    C0603-PHILLIPS                     78.2500      55.4625      180      Capacitor                      
+C16A       100pF                                TopLayer    C0603-PHILLIPS                     67.7250      60.7000      360      Capacitor                      
+C16B       100pF                                TopLayer    C0603-PHILLIPS                     78.2750      54.1000      180      Capacitor                      
+C18A       0.1uF                                TopLayer    C0603-PHILLIPS                     95.9500      57.1250      90       Capacitor                      
+C18B       0.1uF                                TopLayer    C0603-PHILLIPS                     50.0500      57.6750      270      Capacitor                      
+C19A       100pF                                TopLayer    C0603-PHILLIPS                     95.1750      53.6000      180      Capacitor                      
+C19B       100pF                                TopLayer    C0603-PHILLIPS                     50.8250      61.2000      360      Capacitor                      
+C23A       10nF                                 TopLayer    C0603-PHILLIPS                     95.0500      61.4000      270      Capacitor                      
+C23B       10nF                                 TopLayer    C0603-PHILLIPS                     50.9500      53.4000      90       Capacitor                      
+C20A       100pF                                TopLayer    C0603-PHILLIPS                     93.6875      56.6250      180      Capacitor                      
+C20B       100pF                                TopLayer    C0603-PHILLIPS                     52.3125      58.1750      360      Capacitor                      
+U3A        SBB-5089                             TopLayer    SOT89                              91.1248      53.5750      90       IC                             
+U3B        SBB-5089                             TopLayer    SOT89                              54.8753      61.2250      270      IC                             
+U4A        SPF-5043Z                            TopLayer    SOT-343[2X1.25]                    70.7000      61.3500      270      IC                             
+U4B        SPF-5043Z                            TopLayer    SOT-343[2X1.25]                    75.3000      53.4500      90       IC                             
+X13A       0734120110                           TopLayer    U_FL                               94.0000      47.4000      270      "Connector (UMCC)"             
+X13B       0734120110                           TopLayer    U_FL                               52.0000      67.4000      90       "Connector (UMCC)"             
+X14A       0734120110                           TopLayer    U_FL                               70.0000      67.4000      90       "Connector (UMCC)"             
+X14B       0734120110                           TopLayer    U_FL                               76.0000      47.4000      270      "Connector (UMCC)"             
+X15A       0734120110                           TopLayer    U_FL                               94.0000      67.4000      90       "Connector (UMCC)"             
+X15B       0734120110                           TopLayer    U_FL                               52.0000      47.4000      270      "Connector (UMCC)"             
+X16A       0734120110                           TopLayer    U_FL                               76.0000      67.4000      90       "Connector (UMCC)"             
+X16B       0734120110                           TopLayer    U_FL                               70.0000      47.4000      270      "Connector (UMCC)"             
+Z2A        KNH16C105DB5TS                       TopLayer    KNH16_-_DB_Serie                   97.5000      54.2750      90       "EMI Filter"                   
+Z2B        KNH16C105DB5TS                       TopLayer    KNH16_-_DB_Serie                   48.5000      60.5250      270      "EMI Filter"                   
+Z1A        KNH16C105DB5TS                       TopLayer    KNH16_-_DB_Serie                   68.2628      57.7814      180      "EMI Filter"                   
+Z1B        KNH16C105DB5TS                       TopLayer    KNH16_-_DB_Serie                   77.7372      57.0186      360      "EMI Filter"                   
+L4A        22nH                                 TopLayer    TF160808-Phillips                  67.7250      62.1000      360      Coil                           
+L4B        22nH                                 TopLayer    TF160808-Phillips                  78.2750      52.7000      180      Coil                           
+L5A        22nH                                 TopLayer    TF160808-Phillips                  95.1875      55.0750      180      Coil                           
+L5B        22nH                                 TopLayer    TF160808-Phillips                  50.8125      59.7250      360      Coil                           
+C22A       100pF                                TopLayer    C0603-PHILLIPS                     73.9250      60.6960      360      Capacitor                      
+C22B       100pF                                TopLayer    C0603-PHILLIPS                     72.0750      54.1040      180      Capacitor                      

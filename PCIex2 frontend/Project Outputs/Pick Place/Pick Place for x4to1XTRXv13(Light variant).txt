@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+C:\Git\Fairwaves\xtrx-hardware\Carrier Boards\PCIeX4_1XTRX_FE\v1.3\Project Outputs\Pick Place\Pick Place for x4to1XTRXv13(Light variant).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27.07.18
+Time:       17:12
+Revision:   d54d5df2c2c5627839e53cfa05a16d33e36f4566
+Variant:    Light variant
+Units used: mm
+
+Designator Comment                          Layer       Footprint                          Center-X(mm) Center-Y(mm) Rotation Description                   
+E3         "Custom PCIe Bracket XTRX"       BottomLayer Custom_PCIe_bracket_XTRX1          7.5000       9.3500       180      "CNC'ed enclosure component"  
+J2`        0                                TopLayer    R0603-PHILLIPS                     28.1000      17.7000      90       Jumper                        
+X3         0734120110                       TopLayer    U_FL                               37.2000      43.0000      0        "Connector (UMCC)"            
+X4         0734120110                       TopLayer    U_FL                               33.8000      43.0000      180      "Connector (UMCC)"            
+LED3       LTST-C190KRKT                    TopLayer    LED-0603RD                         1.7000       41.1000      360      "LED RED"                     
+LED2       LTST-C190TBKT                    TopLayer    LED-0603BL                         1.7000       39.9000      360      "LED BLUE"                    
+LED1       LTST-C190KGKT                    TopLayer    LED-0603GR                         1.7000       38.7000      360      "LED GREEN"                   
+X6         NT1R3000                         TopLayer    PCIe_MiniCard_1.55mm_stand_off_nut 93.5500      40.7499      0        "Stand-off nut PCIe MiniCard" 
+X7         NT1R3000                         TopLayer    PCIe_MiniCard_1.55mm_stand_off_nut 93.5500      16.5500      0        "Stand-off nut PCIe MiniCard" 
+X8         TSM-106-01-T-SH                  TopLayer    HEAD_MALE_6P_R/A_SMD               38.3000      57.2250      0        "Connector header male"       
+X11        0734120110                       TopLayer    U_FL                               35.0000      35.2000      90       "Connector (UMCC)"            
+X12        0734120110                       TopLayer    U_FL                               35.0000      28.8000      270      "Connector (UMCC)"            
+R7         330                              TopLayer    R0603-PHILLIPS                     7.5250       38.8242      180      Resistor                      
+X5         "PCIe MiniCard 1.55mm connector" TopLayer    PCIE_MINICARD_1.55MM_CONN          45.5000      28.6500      270      "Connector PCIe MiniCard"     
+X9         "SIM micro push-push"            TopLayer    SIM_SF56S006V4BR2000-dig           8.4125       30.4200      360      "Connector SIM micro card"    
+X10        JTAG                             TopLayer    Molex_78864-1001                   60.2000      40.7500      90       "Connector board to board"    
+R8         330                              TopLayer    R0603-PHILLIPS                     7.5250       40.1389      180      Resistor                      
+R9         330                              TopLayer    R0603-PHILLIPS                     7.5250       41.4742      180      Resistor                      
